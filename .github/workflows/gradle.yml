@@ -4,10 +4,11 @@
 name: Java CI with Gradle
 
 on:
-  push:
-    branches: [ develop ]
-  pull_request:
-    branches: [ feature/lab1 ]
+#   push:
+#     branches: [ develop ]
+#   pull_request:
+#     branches: [ feature/lab1 ]
+  pull_request
 
 jobs:
   build:
