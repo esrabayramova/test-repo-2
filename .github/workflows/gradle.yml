@@ -7,7 +7,7 @@ on:
 #   push:
 #     branches: [ develop ]
 #   pull_request:
-#     branches: [ feature/lab1 ]
+#     branches: [ develop ]
   pull_request
 
 jobs:
